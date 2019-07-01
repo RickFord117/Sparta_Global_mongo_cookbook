@@ -1,0 +1,7 @@
+DEPENDENCIES
+  mongo
+    path: .
+    metadata: true
+
+GRAPH
+  mongo (0.1.0)
